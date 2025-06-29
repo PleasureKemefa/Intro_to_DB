@@ -1,4 +1,3 @@
-
 # MySQLServer.py
 
 import mysql.connector
